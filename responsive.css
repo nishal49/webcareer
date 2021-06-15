@@ -1,0 +1,218 @@
+@media(min-width: 0px) and (max-width: 900px){
+    #container__home {
+        padding-top: 0vh;
+        min-width: 5px;
+        max-width:400px;
+    }
+    #web-plan{
+        margin-top: 60px;
+        margin-bottom: 20px;
+    }
+    #pricing-table1 {
+        background-image: url(beach-6237736_640.jpg);
+        width: 150px;
+        height: 550px;
+        padding: 20px;
+        margin: 10px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+}
+@media (min-width: 150px) and (max-width: 900px){
+    #container__home {
+        
+        min-width: 50px;
+        max-width:400px;
+    }
+    #img__home {
+        min-width: 5px;
+        max-width: 100px;
+        
+    }
+    #contact-image {
+        margin-top: 10px;
+        min-width: 100px;
+        max-width: 120px;
+    }
+}
+@media (min-width: 180px) and (max-width: 900px){
+    #img__home {
+        min-width: 50px;
+        max-width: 140px;
+        
+    }
+}
+@media (min-width: 250px) and (max-width: 900px){
+    #why-us{
+        background-color: rgb(27, 25, 25); 
+        padding: 40px;
+    }
+    #web-plan{
+        margin-top: 60px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    #pricing-table1 {
+        background-image: url(beach-6237736_640.jpg);
+        width: 200px;
+        height: 400px;
+        padding: 20px;
+        margin: 10px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+
+}
+
+@media (min-width: 300px) and (max-width: 900px){
+    #container__home {
+        padding-top: 0vh;
+        min-width: 5px;
+        max-width:700px;
+    }
+    #header__home {
+        
+        min-width: 5px;
+        max-width:300px;
+    }
+    #img__home {
+        min-width: 100px;
+        max-width: 250px;
+        
+    }
+    #pricing-table1 {
+        background-image: url(beach-6237736_640.jpg);
+       
+        width: 200px;
+        height: 400px;
+        padding: 20px;
+        margin: 50px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+    #contact-image {
+        margin-top: 10px;
+        min-width: 100px;
+        max-width: 220px;
+    }
+}
+@media (min-width: 400px) and (max-width: 900px){
+    #container__home {
+        padding-top: 0vh;
+        min-width: 5px;
+        max-width:700px;
+    }
+   
+    #img__home {
+        min-width: 100px;
+        max-width: 320px;
+        
+    }
+}
+@media (min-width: 430px) and (max-width: 900px){
+    #pricing-table1 {
+        background-image: url(beach-6237736_640.jpg);
+       
+        width: 200px;
+        height: 400px;
+        padding: 20px;
+        margin-top: 30px;
+        margin-left: 100px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+    
+    
+}
+@media (min-width: 500px) and (max-width: 900px){
+    #container__home {
+        padding-top: 0vh;
+        min-width: 5px;
+        max-width:700px;
+    }
+   
+    #img__home {
+        margin-top: 20vh;
+        min-width: 100px;
+        max-width: 220px;
+        
+    }
+    
+    #pricing-table1 {
+        
+        background-image: url(beach-6237736_640.jpg);
+        width: 200px;
+        height: 400px;
+        padding: 20px;
+        margin: 30px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+}
+@media (min-width: 600px) and (max-width: 900px){
+    #container__home {
+        padding-top: 0vh;
+        min-width: 5px;
+        max-width:700px;
+    }
+    #header__home {
+        padding-top: 3vh;
+        min-width: 5px;
+        max-width:800px;
+    }
+    #img__home {
+       margin-top: 15vh;
+        min-width: 100px;
+        max-width: 320px; 
+    }
+    #web-plan{
+        margin-top: 90px;
+        margin-bottom: 20px;
+        padding: 20px;
+    }
+    #pricing-table1 {
+        background-image: url(beach-6237736_640.jpg);
+        width: 220px;
+        height: 450px;
+        padding: 25px;
+        margin-top: 40px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+    #contact-image {
+        margin-top: 10px;
+        min-width: 100px;
+        max-width: 300px;
+    }
+}
+@media (min-width: 700px) and (max-width: 900px){
+    #header__home {
+        padding-top: 5vh;
+        min-width: 5px;
+        max-width:800px;
+    }
+    #img__home {
+        min-width: 100px;
+        max-width: 360px;
+    }
+    
+    
+    #web-plan{
+        margin: 159px;
+        margin-top: 10px;
+        margin-bottom: 5px;
+        
+        padding: 0px;
+    }
+    #pricing-table1 {
+        background-image: url(beach-6237736_640.jpg);
+        width: 180px;
+        height: 450px;
+        padding: 25px;
+        margin-top: 20px;
+        box-shadow: 0px 6px 10px 3px black;
+        
+    }
+}
+
+
